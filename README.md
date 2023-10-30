@@ -5,3 +5,4 @@ When we clone the respository we have 4 steps tto change a file
 2 Stage
 3 commit 
 4 Push 
+5 q to exit
